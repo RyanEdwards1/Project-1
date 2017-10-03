@@ -1,4 +1,5 @@
-<H3>Drawing Player </H3>
+Drawing Player 
+
 The code that is used to draw the users player onto the screen is:
 
   context.beginPath();
