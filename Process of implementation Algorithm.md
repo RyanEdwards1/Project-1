@@ -1,6 +1,3 @@
-### Drawing Player
-
-The code that is used to draw the users player onto the screen is:
 
 #### Code For Drawing Player:
      context.beginPath();
