@@ -2,6 +2,7 @@
 
 The code that is used to draw the users player onto the screen is:
 
+#### Code For Drawing Player:
   ##### context.beginPath();
   ##### context.fillStyle = "#000000";
   ##### context.fillRect(mouseX - 25, mouseY - 25, 25, 25); 
