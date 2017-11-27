@@ -15,3 +15,9 @@
 #### As a user I would like to play it in a browser 
 #### As a player I'd want the NPC to follow my character 
 #### As a user I would like to see both characters 
+
+
+## Flow Chart
+
+## Time Line
+![cfpture](https://user-images.githubusercontent.com/31927415/33266395-5fdb6db4-d36d-11e7-8043-b6b6ff564e4a.JPG)
