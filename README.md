@@ -18,6 +18,8 @@
 
 
 ## Flow Chart
+![flowchart](https://user-images.githubusercontent.com/31927415/33268043-9047a1a6-d373-11e7-9032-3bedf0c82ee0.JPG)
+
 
 ## Time Line
 ![cfpture](https://user-images.githubusercontent.com/31927415/33266395-5fdb6db4-d36d-11e7-8043-b6b6ff564e4a.JPG)
