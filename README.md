@@ -7,3 +7,11 @@
 
 ## Description
 #### A non-playing character NPC (that is a character controlled by the computer) targets the users mouse position as the player moves across the screen, the game is over once the NPC touches the players mouse position 3 times
+
+## User Stories
+#### As a player I would like to know when I have come in contact with the NPC 
+#### As a player I would want my character to follow my mouse 
+#### As a player I would want to know when I have lost all 3 lives 
+#### As a user I would like to play it in a browser 
+#### As a player I'd want the NPC to follow my character 
+#### As a user I would like to see both characters 
