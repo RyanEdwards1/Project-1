@@ -43,3 +43,8 @@
 
 #### Context.fillRect is to make the lines that was created earlier into a rectangle, Then in the brakets is numbers which is creating the size that you want your rectangle to be.
 
+## Debugging Process
+When we first started coding using notepad++, we did not have an easy way of debugging problems with our code, we would have to scroll through the code and make changes and keep running the code to see the changes. Once we switched to 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
+
+## Coding Standards
+During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands or even functions. it also means you don’t have to press space a lot to get the same affect.
