@@ -44,10 +44,10 @@
 #### Context.fillRect is to make the lines that was created earlier into a rectangle, Then in the brakets is numbers which is creating the size that you want your rectangle to be.
 
 ## Debugging Process
-#### When we first started coding using notepad++, we did not have an easy way of debugging problems with our code, we would have to scroll through the code and make changes and keep running the code to see the changes. Once we switched to 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
+#### When we first started coding using notepad++, we would do the code line by line so if a error happens then we would know where the error has occurred and this would make it simpler to fix the code when it breaks. Once we started using to 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
 
 ## Coding Standards
-#### During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands or even functions. it also means you don’t have to press space a lot to get the same affect.
+#### During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands. also this makes it easier to see what code is inside what function or command. making easier to also comment and add notes to the code. 
 
 ## Evaluation
-#### Overall I feel that as this was my first game that i have coded it went pretty good as i meet all the requirements that we needed to. I learnt have to diagnose simple coding errors/mistakes as well as pick up simple terminology whilst being able to implement it into my code. although i did not comment on my code as much as was recommended I felt that I was able to understand everything and understand what each line of code did as well as its importance.
+#### Overall I feel that as this was my first game that i have coded it went pretty good as i meet all the requirements that we needed to. I learnt have to diagnose simple coding errors/mistakes as well as pick up simple terminology whilst being able to implement it into my code. I also commented my code so that if i ever need to look back at it and see what code i used and what it does. This will help later down the road when we code bigger projects.
