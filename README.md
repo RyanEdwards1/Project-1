@@ -32,7 +32,8 @@
 
 
 ### Using A IDE vs Not Using A IDE
-##### Notepad is a simple application comes up with windows allows you to write some text and store it in very low file size. it’s a very simple editor. And Notepad++ is a advanced text editor, it supports many extensions, good for coding purposes by this you can validate a text very fast, provide many kinds of extensions by this you can compare , modify , replace and find texts very easy way. high readability and this list is never ending lots and lots of features. Notepad++ supports 50 programming, scripting and markup languages. It also features the automatic detection of the programming language that a given file uses. It is Also Free to use
+#### Notepad is a simple application comes up with windows allows you to write some text and store it in very low file size. it’s a very simple editor. 
+#### Notepad++ is a advanced text editor, it supports many extensions, good for coding purposes by this you can validate a text very fast, provide many kinds of extensions by this you can compare , modify , replace and find texts very easy way. high readability and this list is never ending lots and lots of features. Notepad++ supports 50 programming, scripting and markup languages. It also features the automatic detection of the programming language that a given file uses. It is Also Free to use
 
 ## Example Code
 
