@@ -49,7 +49,8 @@
 #### When we first started coding using notepad++, we would do the code line by line so if a error happens then we would know where the error has occurred and this would make it simpler to fix the code when it breaks. Once we started using to 'repl.it' our debugging improved as we were able to see a live preview as well as get valid debugging messages to tell us where we made mistakes.
 
 ## Coding Standards
-#### During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands. also this makes it easier to see what code is inside what function or command. making easier to also comment and add notes to the code. 
+#### During the coding process, I made sure to constantly indent my code often so that I was able to identify the breaks in commands. also this makes it easier to see what code is inside what function or command. making easier to also comment and add notes to the code. I used alot of indenting in my work for this project as i had alot of fuctions that had alot of code in each one. I used Tabs to indent my work as it is quicker and looks more professional as everything is in line. This also makes it easyer for someone else to read and understand my code. 
+#### I also added alot of Comments to my code so that when i go back to it i can see what each part of the program does and i can refresh my memory. I can also use it to help me on later projects if i was to forget somthing 
 
 ## Evaluation
 #### Overall I feel that as this was my first game that i have coded it went pretty good as i meet all the requirements that we needed to. I learnt have to diagnose simple coding errors/mistakes as well as pick up simple terminology whilst being able to implement it into my code. I also commented my code so that if i ever need to look back at it and see what code i used and what it does. This will help later down the road when we code bigger projects.
